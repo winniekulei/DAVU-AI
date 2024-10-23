@@ -1,6 +1,6 @@
 ---
 title: "Mali_Data_Analysis"
-author: "Winnie Kulei"
+author: "Winnie Jepkonga Kulei"
 date: "Date ~ `r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_document:
