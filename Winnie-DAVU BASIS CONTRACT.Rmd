@@ -432,7 +432,7 @@ quickr::decorate_table(mod_res_sikasso2,names(mod_res_sikasso2))
 
 
 ```
-
+#SECOND PART MULTI-TRIGGER
 # Multi-trigger Product
 
 ## Read Excel files containing data
